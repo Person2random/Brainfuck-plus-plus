@@ -86,3 +86,11 @@ Im sure most of you know about the 8 base characters used in Brainfuck but eithe
   | Sky Blue   | 13 |
   | Brown      | 14 |
   | Pink       | 15 |
+
+
+
+
+
+  Note: I forgot to add this while writing but there is a debug mode basically by making the 3rd argument when running the program be Debug
+  (1st argument is path of the bf++ script, 2nd is AC (Allow commands) and 3rd is debug)
+  There is also the 4th argument which can be "big" (Makes the interpreter use an int array tape instead of a byte one)
